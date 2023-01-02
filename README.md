@@ -22,7 +22,7 @@
 <h2>프로젝트 화면구성 및 기능 설명</h2>
 
 <h2>참고 주소</h2>
-깃허브 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject
+깃허브 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject <br/>
 깃허브 커밋메세지 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject/commits/main
 
 
