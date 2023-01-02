@@ -22,10 +22,8 @@
 <h2>프로젝트 화면구성 및 기능 설명</h2>
 
 <h2>참고 주소</h2>
-https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject
-![image](https://user-images.githubusercontent.com/97080437/210189430-7be6144e-2839-4fa8-b865-fbd1721a5974.png)
-https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject/commits/main
-![image](https://user-images.githubusercontent.com/97080437/210189434-61c7fdc1-2c4a-4686-beb9-4fca2933083f.png)
+깃허브 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject
+깃허브 커밋메세지 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject/commits/main
 
 
    
