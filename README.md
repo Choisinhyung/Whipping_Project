@@ -24,6 +24,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190519-174d6fdc-0ae7-47d4-99de-14a408cd68e6.png" width="900" height="800"></p>
 
 ▶ __로그인 / 회원가입__ <br/>
+<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210191949-6614dfa2-6e40-40d1-a6c2-09ac6be4ea9a.png" width="900" height="800"></p>
+
 ▶ __카테고리 및 제품 상세페이지__ <br/>
 ▶ __제품 구매__ <br/>
 ▶ __제품 판매__ <br/>
