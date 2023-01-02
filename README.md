@@ -7,16 +7,17 @@
 <br/>
 
 <h2>목차</h2>
-1. [개발환경](#개발환경)<br/>
+1. 개발환경<br/>
 2. ERD<br/>
 3. 유스케이스<br/>
 4. 프로젝트 화면구성 및 기능 설명<br/>
 5. 시연 영상<br/>
 
 ## 개발환경
-
+<h2>시스템 흐름도</h2>
+![휘핑 시스템 흐름도](https://user-images.githubusercontent.com/97080437/210190282-8fba3927-2aad-4419-9520-85b5ddab7818.png)
 <h2>ERD</h2>
-
+![휘핑 ERD](https://user-images.githubusercontent.com/97080437/210190252-e4c6a342-7d61-4e26-8373-b6c2d4807843.png)
 <h2>유스케이스</h2>
 
 <h2>프로젝트 화면구성 및 기능 설명</h2>
