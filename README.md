@@ -22,11 +22,11 @@
 <h4>메인</h4><br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190519-174d6fdc-0ae7-47d4-99de-14a408cd68e6.png" width="900" height="800"></p>
 
-<h4>로그인 / 회원가입</h4><br/>
-<h4>카테고리 및 제품 상세페이지</h4><br/>
-<h4>제품 구매</h4><br/>
-<h4>제품 판매</h4><br/>
-<h4>결제</h4><br/>
+<h3>로그인 / 회원가입</h3><br/>
+<h3>카테고리 및 제품 상세페이지</h3><br/>
+<h3>제품 구매</h3><br/>
+<h3>제품 판매</h3><br/>
+<h3>결제</h3><br/>
 
 <h2>참고 주소</h2>
 깃허브 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject <br/>
