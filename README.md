@@ -20,7 +20,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190252-e4c6a342-7d61-4e26-8373-b6c2d4807843.png" width="800" height="500"></p>
 <h2>프로젝트 화면구성 및 기능 설명</h2>
 <h4>메인</h4><br/>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190519-174d6fdc-0ae7-47d4-99de-14a408cd68e6.png" width="900" height="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190519-174d6fdc-0ae7-47d4-99de-14a408cd68e6.png" width="900" height="600"></p>
 
 <h4>로그인 / 회원가입</h4><br/>
 <h4>카테고리 및 제품 상세페이지</h4><br/>
