@@ -28,9 +28,9 @@
 
 ▶ __카테고리 및 제품 상세페이지__ <br/>
 <div>
-<img src="https://user-images.githubusercontent.com/97080437/210191984-1d391de8-da4a-4046-b3c7-ca917ddcb6fd.png" width="700" height="500">
-<img src="https://user-images.githubusercontent.com/97080437/210192022-92255e64-fd99-4bd3-bcc9-0ef8b8581986.png" width="100" height="100">
-   </div>
+   <img src="https://user-images.githubusercontent.com/97080437/210191984-1d391de8-da4a-4046-b3c7-ca917ddcb6fd.png" width="700" height="500">
+   <img src="https://user-images.githubusercontent.com/97080437/210192106-2d5405ba-d320-4754-a43e-3d13d3d5c590.png" width="300" height="500">
+</div>
 
 ▶ __제품 구매__ <br/>
 ▶ __제품 판매__ <br/>
