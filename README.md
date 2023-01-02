@@ -43,7 +43,13 @@
    <img src="https://user-images.githubusercontent.com/97080437/210192270-f788aee5-9940-46be-8ca8-f556bf49afa8.png" width="500" height="400">
    <img src="https://user-images.githubusercontent.com/97080437/210192291-3199efe1-85ac-4832-8328-38abb7273a80.png" width="500" height="400">
 </div>
-▶ __결제__ <br/>
+
+▶ __장바구니 / 결제__ <br/>
+<img src="https://user-images.githubusercontent.com/97080437/210192377-7462e5fd-c78e-4f07-87de-106e51fded67.png" width="500" height="400">
+<div>
+   <img src="https://user-images.githubusercontent.com/97080437/210192389-4c1305d6-c35f-460b-a294-d7abc405cb99.png" width="500" height="400">
+   <img src="https://user-images.githubusercontent.com/97080437/210192399-e6b9ec3a-f1c7-4645-8459-476aee45f8d7.png" width="500" height="400">
+</div>
 
 <h2>참고 주소</h2>
 깃허브 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject <br/>
