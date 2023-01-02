@@ -18,8 +18,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190282-8fba3927-2aad-4419-9520-85b5ddab7818.png" width="800" height="400"></p>
 <h2>ERD</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190252-e4c6a342-7d61-4e26-8373-b6c2d4807843.png" width="800" height="400"></p>
-<h2>유스케이스</h2>
-
 <h2>프로젝트 화면구성 및 기능 설명</h2>
 
 <h2>참고 주소</h2>
