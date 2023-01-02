@@ -19,6 +19,12 @@
 <h2>ERD</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190252-e4c6a342-7d61-4e26-8373-b6c2d4807843.png" width="800" height="500"></p>
 <h2>프로젝트 화면구성 및 기능 설명</h2>
+- 메인
+- 로그인 / 회원가입
+- 카테고리 및 제품 상세페이지
+- 제품 구매
+- 제품 판매
+- 결제
 
 <h2>참고 주소</h2>
 깃허브 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject <br/>
