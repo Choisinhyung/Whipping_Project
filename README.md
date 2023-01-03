@@ -16,12 +16,16 @@
 <h2>개발환경</h2>
 * OS
    * Window 10
+
 * DevTools
    * HeidiSQL
+
 * Language
    * React
+
 * Frontend
    * HTML5, CSS3, Javascript, Jquery, Bootstrap5
+ 
 * Backend
    * Mybatis, Iamport(결제모듈)<br/><br/>
    
