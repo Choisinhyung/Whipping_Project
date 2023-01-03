@@ -30,11 +30,11 @@
 ▶ __카테고리 및 제품 상세페이지__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210191984-1d391de8-da4a-4046-b3c7-ca917ddcb6fd.png" width="700" height="500"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210192106-2d5405ba-d320-4754-a43e-3d13d3d5c590.png" width="300" height="300"></p>
-- 카테고리별 제품 분류<br/>
+- 카테고리별 제품 분류<br/><br/>
 
 ▶ __제품 구매__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210192164-3136e770-553c-4730-8224-ae3cffe51232.png" width="700" height="500"></p>
-- DB테이블에 재고현황 체크하여 구매 가능<br/>
+- DB테이블에 재고현황 체크하여 구매 가능<br/><br/>
 
 ▶ __제품 판매__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210192214-df469a47-f9f9-48e9-8259-ca66ad353099.png" width="700" height="500"></p>
@@ -48,7 +48,7 @@
 </div>
 - 제품 판매시 원하는 금액을 입력하여 판매 가능<br/>
 - 판매신청을 후 마이페이지에서 확인 가능<br/>
-- 각 제품의 최저가가 화면에 출력되며, 다른 고객이 해당 제품을 최저가에 구매할 수 있음<br/>
+- 각 제품의 최저가가 화면에 출력되며, 다른 고객이 해당 제품을 최저가에 구매할 수 있음<br/><br/>
 
 ▶ __장바구니 / 결제__ <br/>
 <img src="https://user-images.githubusercontent.com/97080437/210192377-7462e5fd-c78e-4f07-87de-106e51fded67.png" width="500" height="400">
@@ -57,7 +57,7 @@
    <img src="https://user-images.githubusercontent.com/97080437/210192399-e6b9ec3a-f1c7-4645-8459-476aee45f8d7.png" width="500" height="400">
 </div>
 - 결제시 제품 상세페이지에서 1개씩 구매 가능 / 장바구니 여러상품 한꺼번에 구매 가능<br/>
-- 카카오 API 사용<br/>
+- 카카오 API 사용<br/><br/>
 
 <h2>참고 주소</h2>
 깃허브 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject <br/>
