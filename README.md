@@ -14,16 +14,16 @@
 5. 참고 주소<br/>
 
 <h2>개발환경</h2>
-- OS
-   Window 10
-- DevTools
-   HeidiSQL
-- Language
-   React
-- Frontend
-   HTML5, CSS3, Javascript, Jquery, Bootstrap5
-- Backend
-   Mybatis, Iamport(결제모듈)<br/><br/>
+* OS
+   * Window 10
+* DevTools
+   * HeidiSQL
+* Language
+   * React
+* Frontend
+   * HTML5, CSS3, Javascript, Jquery, Bootstrap5
+* Backend
+   * Mybatis, Iamport(결제모듈)<br/><br/>
    
 <h2>시스템 흐름도</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190282-8fba3927-2aad-4419-9520-85b5ddab7818.png" width="800" height="500"></p>
