@@ -15,19 +15,19 @@
 
 <h2>개발환경</h2>
 
-* OS
+* __OS__
    * Window 10
 
-* DevTools
+* __DevTools__
    * HeidiSQL
 
-* Language
+* __Language__
    * React
 
-* Frontend
+* __Frontend__
    * HTML5, CSS3, Javascript, Jquery, Bootstrap5
  
-* Backend
+* __Backend__
    * Mybatis, Iamport(결제모듈)<br/><br/>
    
 <h2>시스템 흐름도</h2>
