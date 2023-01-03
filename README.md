@@ -22,7 +22,7 @@
 
 ▶ __메인__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190519-174d6fdc-0ae7-47d4-99de-14a408cd68e6.png" width="900" height="800"></p>
-- 추천 컬럼 생성하여 메인페이지에서 종류별로 보여줌
+- 추천 컬럼 생성하여 메인페이지에서 종류별로 보여줌<br/>
 
 ▶ __로그인 / 회원가입__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210191949-6614dfa2-6e40-40d1-a6c2-09ac6be4ea9a.png" width="900" height="500"></p>
@@ -30,11 +30,11 @@
 ▶ __카테고리 및 제품 상세페이지__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210191984-1d391de8-da4a-4046-b3c7-ca917ddcb6fd.png" width="700" height="500"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210192106-2d5405ba-d320-4754-a43e-3d13d3d5c590.png" width="300" height="300"></p>
-- 카테고리별 제품 분류
+- 카테고리별 제품 분류<br/>
 
 ▶ __제품 구매__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210192164-3136e770-553c-4730-8224-ae3cffe51232.png" width="700" height="500"></p>
-- DB테이블에 재고현황 체크하여 구매 가능
+- DB테이블에 재고현황 체크하여 구매 가능<br/>
 
 ▶ __제품 판매__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210192214-df469a47-f9f9-48e9-8259-ca66ad353099.png" width="700" height="500"></p>
