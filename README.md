@@ -19,7 +19,7 @@
    * Window 10
 
 * __DevTools__
-   * HeidiSQL
+   * HeidiSQL, Visual Studio
 
 * __Language__
    * React
