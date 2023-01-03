@@ -46,9 +46,9 @@
    <img src="https://user-images.githubusercontent.com/97080437/210192270-f788aee5-9940-46be-8ca8-f556bf49afa8.png" width="500" height="400">
    <img src="https://user-images.githubusercontent.com/97080437/210192291-3199efe1-85ac-4832-8328-38abb7273a80.png" width="500" height="400">
 </div>
-- 제품 판매시 원하는 금액을 입력하여 판매 가능
-- 판매신청을 후 마이페이지에서 확인 가능
-- 각 제품의 최저가가 화면에 출력되며, 다른 고객이 해당 제품을 최저가에 구매할 수 있음
+- 제품 판매시 원하는 금액을 입력하여 판매 가능<br/>
+- 판매신청을 후 마이페이지에서 확인 가능<br/>
+- 각 제품의 최저가가 화면에 출력되며, 다른 고객이 해당 제품을 최저가에 구매할 수 있음<br/>
 
 ▶ __장바구니 / 결제__ <br/>
 <img src="https://user-images.githubusercontent.com/97080437/210192377-7462e5fd-c78e-4f07-87de-106e51fded67.png" width="500" height="400">
@@ -56,8 +56,8 @@
    <img src="https://user-images.githubusercontent.com/97080437/210192389-4c1305d6-c35f-460b-a294-d7abc405cb99.png" width="500" height="400">
    <img src="https://user-images.githubusercontent.com/97080437/210192399-e6b9ec3a-f1c7-4645-8459-476aee45f8d7.png" width="500" height="400">
 </div>
-- 결제시 제품 상세페이지에서 1개씩 구매 가능 / 장바구니 여러상품 한꺼번에 구매 가능
-- 카카오 API 사용
+- 결제시 제품 상세페이지에서 1개씩 구매 가능 / 장바구니 여러상품 한꺼번에 구매 가능<br/>
+- 카카오 API 사용<br/>
 
 <h2>참고 주소</h2>
 깃허브 : https://github.com/rhj1216-hochan06/douzoneth3_2team_reactproject <br/>
